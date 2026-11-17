@@ -47,3 +47,4 @@ Open http://127.0.0.1:8000/todos to use the app.
 Testing Jenkins automatic build and email notifications.
 
 Cheers and happy coding!
+exit 1
